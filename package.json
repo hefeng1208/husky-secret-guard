@@ -1,0 +1,12 @@
+{
+  "name": "husky-secret-guard",
+  "version": "1.0.0",
+  "description": "Encrypt and decrypt sensitive files automatically with Husky hooks.",
+  "bin": {
+    "husky-secret-guard": "bin/cli.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "husky": "^9.0.0"
+  }
+}
